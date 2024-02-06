@@ -27,5 +27,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-...
