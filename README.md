@@ -8,6 +8,8 @@
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+👆🏻 Acesse o site e confira: https://pokedexcarledesjr.vercel.app
+
 ## Trilha JS Developer - Pokedex
 
 ## 💻 Projeto
